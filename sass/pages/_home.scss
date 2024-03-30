@@ -1,0 +1,154 @@
+.about-us-section {
+  display: flex;
+}
+.about-us-section--content {
+  display: flex;
+  width: 1109px;
+  height: 644px;
+  top: 810px;
+  left: 165px;
+  gap: 160px;
+  opacity: 0px;
+  .about-company {
+    width: 475px;
+    top: 1054px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 244px;
+    p {
+      font-family: Poppins;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 21px;
+      text-align: left;
+      margin-bottom: 29px;
+      color: #4d533ce5;
+    }
+    h2 {
+      font-family: Poppins;
+      font-size: 36px;
+      font-weight: 700;
+      line-height: 46px;
+      text-align: left;
+      color: #4d533c;
+      margin-bottom: 35px;
+    }
+    span {
+      display: block;
+      font-family: Poppins;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      text-align: left;
+      color: #21384299;
+      margin-bottom: 42px;
+    }
+    a {
+      font-family: Poppins;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 18.4px;
+      text-align: left;
+      color: #d4d6d4;
+    }
+  }
+  .about-company-founders {
+    width: 474px;
+    height: 644px;
+    top: 810px;
+    left: 800px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: transparent;
+    box-shadow: 0px 100px 100px 0px #00000025;
+    z-index: 1;
+    .about-company-founders-content {
+      width: 426px;
+      height: 340px;
+      top: 1054px;
+      left: 840px;
+      gap: 0px;
+      opacity: 0px;
+      margin-top: 244px;
+      margin-left: 40px;
+      blockquote {
+        font-family: Poppins;
+        font-size: 24px;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 40px;
+        text-align: left;
+        color: #4d533c;
+      }
+      .founders {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        width: 358px;
+        height: 90px;
+        top: 1304px;
+        left: 840px;
+        opacity: 0px;
+        margin-top: 50px;
+        img {
+          width: 90px;
+          height: 90px;
+          top: 1304px;
+          left: 840px;
+          gap: 0px;
+          opacity: 0px;
+          box-shadow: 20px 25px 43px 0px #0000002e;
+          border-radius: 50%;
+        }
+        .founder-names {
+          h2 {
+            font-family: Poppins;
+            font-size: 22px;
+            font-weight: 700;
+            line-height: 33px;
+            text-align: left;
+            color: #4d533c;
+          }
+          p {
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            text-align: left;
+            color: #152934;
+          }
+        }
+      }
+    }
+  }
+}
+.projects {
+  margin-top: 150px;
+}
+.projects-title {
+  display: flex;
+  gap: 133px;
+  width: 976px;
+  height: 102px;
+  h3 {
+    width: 350px;
+    height: 108px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: left;
+    color: #4d533c;
+  }
+  p {
+    width: 518px;
+    height: 78px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #213842;
+  }
+}

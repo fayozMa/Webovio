@@ -1,0 +1,70 @@
+header {
+  background-image: url(../../static/images/webp/Slider.png);
+  background-repeat: no-repeat;
+  max-width: 1440px;
+  margin: 0 auto;
+  height: 881px;
+  nav {
+    a {
+      margin-top: 24px;
+    }
+    button {
+      margin-top: 24px;
+    }
+  }
+}
+.header-title_box {
+  width: 616px;
+  height: 412px;
+  top: 187px;
+  left: 166px;
+  gap: 0px;
+  opacity: 0px;
+  color: #fff;
+  margin-top: 121px;
+  p {
+    width: 581px;
+    height: 55px;
+    top: 289px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #fff;
+  }
+  h1 {
+    font-family: Poppins;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 74px;
+    text-align: left;
+    margin-bottom: 24px;
+  }
+  a {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.4px;
+    text-align: left;
+  }
+}
+.sponsers {
+  width: 1370px;
+  height: 227px;
+  top: 707px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  gap: 66px;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 50px 50px 100px 0px #00000025;
+  padding: 60px 166px 54px 60px;
+  margin-left: 70px;
+  margin-top: 108px;
+  z-index: 2;
+}
