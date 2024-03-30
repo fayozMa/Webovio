@@ -125,12 +125,15 @@
 }
 .projects {
   margin-top: 150px;
+  border-top:1px solid #21384218;
 }
 .projects-title {
   display: flex;
   gap: 133px;
   width: 976px;
   height: 102px;
+  padding-top: 150px;
+  padding-bottom: 110px;
   h3 {
     width: 350px;
     height: 108px;
